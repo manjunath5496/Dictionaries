@@ -8,11 +8,11 @@
 <li><b><a target="_blank" href="img/nbl(5).pdf" style="text-decoration:none;">Dictionary of Mathematics Terms</a></b></li>
 <li><b><a target="_blank" href="img/nbl(6).pdf" style="text-decoration:none;">Microsoft Computer Dictionary</a></b></li>
  
-  <li><b><a target="_blank" href="img/nbl(7).pdf" style="text-decoration:none;">Procuring Universal Service: Putting Auction Theory to Work</a></b></li>
- <li><b><a target="_blank" href="img/nbl(8).pdf" style="text-decoration:none;">Femtochemistry: Atomic-Scale Dynamics of the Chemical Bond Using Ultrafast Lasers by Ahmed Zewail</a></b></li>
-   <li><b><a target="_blank" href="img/nbl(9).pdf" style="text-decoration:none;">Ralph Steinman and the Discovery of Dendritic Cells by Ralph M. Steinman</a></b></li>                             
- <li><b><a target="_blank" href="img/nbl(10).pdf" style="text-decoration:none;">Spatial Cells in the Hippocampal Formation by John O'Keefe </a></b></li>                              
-<li><b><a target="_blank" href="img/nbl(11).pdf" style="text-decoration:none;">Grid Cells, Place Cells and Memory by May-Britt Moser</a></b></li>
+
+ <li><b><a target="_blank" href="img/nbl(8).pdf" style="text-decoration:none;">The Hutchinson Dictionary of Difficult Words</a></b></li>
+   <li><b><a target="_blank" href="img/nbl(9).pdf" style="text-decoration:none;">Dictionary of Islamic Architecture</a></b></li>                             
+ <li><b><a target="_blank" href="img/nbl(10).pdf" style="text-decoration:none;">Dictionary of Computer and Internet Terms </a></b></li>                              
+<li><b><a target="_blank" href="img/nbl(11).pdf" style="text-decoration:none;">Dictionary of Erotic Artists</a></b></li>
 <li><b><a target="_blank" href="img/nbl(12).pdf" style="text-decoration:none;">Mechanisms in E. coli and Human Mismatch Repair by Paul Modrich</a></b></li>
                <li><b><a target="_blank" href="img/nbl(13).pdf" style="text-decoration:none;">Measuring the Acceleration of the Cosmic Expansion Using Supernovae by Saul Perlmutter</a></b></li>
                               
