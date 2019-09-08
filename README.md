@@ -1,12 +1,12 @@
 <ul>
 
                              
- <li><b><a target="_blank" href="img/nbl(1).pdf" style="text-decoration:none;">Controlling Photons in a Box and Exploring the Quantum to Classical Boundary by Serge Haroche</a></b></li>
- <li><b><a target="_blank" href="img/nbl(2).pdf" style="text-decoration:none;">A Splendid Gift from the Earth: The Origins and Impact of the Avermectins by Satoshi Ōmura</a></b></li>
-<li><b><a target="_blank" href="img/nbl(3).pdf" style="text-decoration:none;">A Brief History of G Protein Coupled Receptors by Robert J. Lefkowitz</a></b></li>
- <li><b><a target="_blank" href="img/nbl(4).pdf" style="text-decoration:none;">The BEH Mechanism and its Scalar Boson by François Englert</a></b></li>                              
-<li><b><a target="_blank" href="img/nbl(5).pdf" style="text-decoration:none;">The Egg and the Nucleus: A Battle for Supremacy by Sir John B. Gurdon</a></b></li>
-<li><b><a target="_blank" href="img/nbl(6).pdf" style="text-decoration:none;">Development of Multiscale Models for Complex Chemical Systems From H+H<sub>2</sub> to Biomolecules by Martin Karplus</a></b></li>
+
+ <li><b><a target="_blank" href="img/nbl(2).pdf" style="text-decoration:none;">Longman Dictionary of Common Errors</a></b></li>
+<li><b><a target="_blank" href="img/nbl(3).pdf" style="text-decoration:none;">Dictionary of Nursing</a></b></li>
+ <li><b><a target="_blank" href="img/nbl(4).pdf" style="text-decoration:none;">The Cambridge Dictionary of Philosophy</a></b></li>                              
+<li><b><a target="_blank" href="img/nbl(5).pdf" style="text-decoration:none;">Dictionary of Mathematics Terms</a></b></li>
+<li><b><a target="_blank" href="img/nbl(6).pdf" style="text-decoration:none;">Microsoft Computer Dictionary</a></b></li>
  
   <li><b><a target="_blank" href="img/nbl(7).pdf" style="text-decoration:none;">Procuring Universal Service: Putting Auction Theory to Work</a></b></li>
  <li><b><a target="_blank" href="img/nbl(8).pdf" style="text-decoration:none;">Femtochemistry: Atomic-Scale Dynamics of the Chemical Bond Using Ultrafast Lasers by Ahmed Zewail</a></b></li>
