@@ -39,20 +39,18 @@
 
   <li><b><a target="_blank" href="img/nbl(26).pdf" style="text-decoration:none;">Dream Dictionary For Dummies</a></b></li>
  
-   <li><b><a target="_blank" href="img/nbl(27).pdf" style="text-decoration:none;">Laser Cooling and Trapping of Neutral Atoms by William D. Phillips</a></b></li>
+   <li><b><a target="_blank" href="img/nbl(27).pdf" style="text-decoration:none;">A Dictionary of Chinese Symbols</a></b></li>
  
-   <li><b><a target="_blank" href="img/nbl(28).pdf" style="text-decoration:none;">Symmetry, Space, Stars and C<sub>60</sub> by Sir Harold Kroto </a></b></li>
+   <li><b><a target="_blank" href="img/nbl(28).pdf" style="text-decoration:none;">Dictionary of geophysics, astrophysics, and astronomy  </a></b></li>
  
-   <li><b><a target="_blank" href="img/nbl(29).pdf" style="text-decoration:none;">Double Heterostructure Concept and its Applications in Physics, Electronics and Technology by Zhores Alferov </a></b></li>                              
+   <li><b><a target="_blank" href="img/nbl(29).pdf" style="text-decoration:none;">The NONVERBAL DICTIONARY of gestures, signs and body language cues </a></b></li>                              
 
-  <li><b><a target="_blank" href="img/nbl(30).pdf" style="text-decoration:none;">Supramolecular Chemistry – Scope and Perspectives
-Molecules – Supermolecules – Molecular Devices by Jean-Marie Lehn</a></b></li>
+  <li><b><a target="_blank" href="img/nbl(30).pdf" style="text-decoration:none;">Allen's Dictionary of English Phrases</a></b></li>
  
-   <li><b><a target="_blank" href="img/nbl(31).pdf" style="text-decoration:none;">The Manipulation of Neutral Particles by Steven Chu</a></b></li> 
+   <li><b><a target="_blank" href="img/nbl(31).pdf" style="text-decoration:none;">Dictionary of Oil, Gas, and Petrochemical Processing</a></b></li> 
  
-   <li><b><a target="_blank" href="img/nbl(32).pdf" style="text-decoration:none;">Telomeres and telomerase: the means to the end by EH Blackburn</a></b></li>
- 
-   <li><b><a target="_blank" href="img/nbl(33).pdf" style="text-decoration:none;">The Photosynthetic Reaction Centre from the Purple Bacterium Rhodopseudomonas Viridis by Johann Deisenhofer and Hartmut Michel</a></b></li>                              
+
+   <li><b><a target="_blank" href="img/nbl(33).pdf" style="text-decoration:none;">The Cambridge Aerospace Dictionary</a></b></li>                              
 
   <li><b><a target="_blank" href="img/nbl(34).pdf" style="text-decoration:none;">Nuclear Magnetic Resonance Fourier Transform Spectroscopy by Richard R. Ernst</a></b></li> 
  
