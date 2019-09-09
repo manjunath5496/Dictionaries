@@ -67,8 +67,8 @@
 <li><b><a target="_blank" href="img/nbl(42).pdf" style="text-decoration:none;">English-Spanish Dictionary </a></b></li>
  
   <li><b><a target="_blank" href="img/nbl(43).pdf" style="text-decoration:none;">Polymer Science Dictionary </a></b></li>
- <li><b><a target="_blank" href="img/nbl(44).pdf" style="text-decoration:none;">A Half-Century of Neurotransmitter Research: Impact on Neurology and Psychiatry by Arvid Carlsson</a></b></li>
-   <li><b><a target="_blank" href="img/nbl(45).pdf" style="text-decoration:none;">Quasi-Electric Fields and Band Offsets: Teaching Electrons New Tricks by Herbert Kroemer</a></b></li>                             
+ <li><b><a target="_blank" href="img/nbl(44).pdf" style="text-decoration:none;">The Oxford Dictionary of English Grammar</a></b></li>
+   <li><b><a target="_blank" href="img/nbl(45).pdf" style="text-decoration:none;">A Dictionary of Epidemiology</a></b></li>                             
  <li><b><a target="_blank" href="img/nbl(46).pdf" style="text-decoration:none;">The Invention and Early History of the CCD by George E. Smith</a></b></li>                              
 <li><b><a target="_blank" href="img/nbl(47).pdf" style="text-decoration:none;">Peptides in the Brain. The New Endocrinology of the Neuron by Roger Guillemin</a></b></li>
 <li><b><a target="_blank" href="img/nbl(48).pdf" style="text-decoration:none;">DNA Ends: Just the Beginning by Jack W. Szostak</a></b></li>
