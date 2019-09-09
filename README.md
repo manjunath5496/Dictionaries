@@ -141,6 +141,10 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(59).pdf" style="text-decoration:none;">The Official Dictionary of Unofficial English</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(75).pdf" style="text-decoration:none;">Melloni's Pocket Medical Dictionary</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(66).pdf" style="text-decoration:none;">Instant Chinese: How to Express Over 1,000 Different Ideas with Just 100 Key Words and Phrases! (A Mandarin Chinese Phrasebook and Dictionary) </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(77).pdf" style="text-decoration:none;">A dictionary of Chinese characters</a></b></li>
 
-
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(78).pdf" style="text-decoration:none;">The Dictionary of Body Language: A Field Guide to Human Behavior</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(79).pdf" style="text-decoration:none;">The Cambridge Aerospace Dictionary</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(80).pdf" style="text-decoration:none;">Milady's Skin Care and Cosmetic Ingredients Dictionary</a></b></li>
  </ul>
