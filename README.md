@@ -99,9 +99,9 @@
  
    <li><b><a target="_blank" href="img/nbl(62).pdf" style="text-decoration:none;">Law Dictionary </a></b></li>
  
-   <li><b><a target="_blank" href="img/nbl(63).pdf" style="text-decoration:none;">Intracellular Protein Degradation: From a Vague Idea thru the Lysosome and the Ubiquitin-Proteasome System and onto Human Diseases and Drug Targeting by Aaron Ciechanover</a></b></li>                              
+   <li><b><a target="_blank" href="img/nbl(63).pdf" style="text-decoration:none;">The Dictionary of Dreams: Ten Thousand Dreams Interpreted</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/nbl(64).pdf" style="text-decoration:none;">The Art of Building Small: from Molecular Switches to Motors by Ben L. Feringa</a></b></li>
+  <li><b><a target="_blank" href="img/nbl(64).pdf" style="text-decoration:none;">Environmental Engineering Dictionary and Directory</a></b></li>
  
    <li><b><a target="_blank" href="img/nbl(65).pdf" style="text-decoration:none;">Topological Quantum Matter by F. Duncan M. Haldane </a></b></li> 
  
