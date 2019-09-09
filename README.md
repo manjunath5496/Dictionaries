@@ -125,4 +125,16 @@
                            
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(76).rar" style="text-decoration:none;">Dictionary of Architecture and Construction</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(1).pdf" style="text-decoration:none;">NTC's Dictionary of American Slang and Colloquial Expressions</a></b></li> 
+ 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(7).pdf" style="text-decoration:none;">Metaphorically Speaking: A Dictionary of 3,800 Picturesque Idiomatic Expressions </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(19).pdf" style="text-decoration:none;">The Oxford Dictionary of Allusions</a></b></li>
+
+
+
+
+
+
+
  </ul>
