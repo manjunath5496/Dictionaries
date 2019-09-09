@@ -158,6 +158,10 @@
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(86).pdf" style="text-decoration:none;">Russian Learners' Dictionary: 10,000 Russian Words in Frequency Order</a></b></li>  
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(87).pdf" style="text-decoration:none;">The Sage Dictionary of Sociology</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(88).pdf" style="text-decoration:none;">The New Oxford Picture Dictionary: Monolingual English Edition</a></b></li>  
+  
   
   
   
