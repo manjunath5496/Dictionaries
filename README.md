@@ -105,30 +105,24 @@
  
    <li><b><a target="_blank" href="img/nbl(65).pdf" style="text-decoration:none;">A Dictionary of Architecture and Landscape Architecture </a></b></li> 
  
-   <li><b><a target="_blank" href="img/nbl(66).pdf" style="text-decoration:none;">A Dictionary of Epidemiology </a></b></li>
- 
-   <li><b><a target="_blank" href="img/nbl(67).pdf" style="text-decoration:none;">ATP Synthesis by Rotary Catalysis by John E. Walker</a></b></li>                              
+   <li><b><a target="_blank" href="img/nbl(67).pdf" style="text-decoration:none;">International Dictionary of Marketing</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/nbl(68).pdf" style="text-decoration:none;">The Role of MHC Gene Products in Immune Regulation and Its Relevance to Alloreactivity by Baruj Benacerraf</a></b></li> 
+  <li><b><a target="_blank" href="img/nbl(68).pdf" style="text-decoration:none;">Dictionary of Psychology and Allied Sciences</a></b></li> 
  
   
-   <li><b><a target="_blank" href="img/nbl(69).pdf" style="text-decoration:none;">Discovering the Fullerenes by Richard E. Smalley</a></b></li>                              
+   <li><b><a target="_blank" href="img/nbl(69).pdf" style="text-decoration:none;">A Dictionary of Diplomacy</a></b></li>                              
 
-  <li><b><a target="_blank" href="img/nbl(70).pdf" style="text-decoration:none;">Unraveling the Structure of the Ribosome by Venkatraman Ramakrishnan </a></b></li> 
+  <li><b><a target="_blank" href="img/nbl(70).pdf" style="text-decoration:none;">Drug dictionary for dentistry </a></b></li> 
   
  
- <li><b><a target="_blank" href="img/nbl(71).pdf" style="text-decoration:none;">Background Story of the Invention of Efficient Blue InGaN Light Emitting Diodes by Shuji Nakamura</a></b></li>
- <li><b><a target="_blank" href="img/nbl(73).pdf" style="text-decoration:none;">Solid Phase Synthesis by Bruce Merrifield  </a></b></li>
-  <li><b><a target="_blank" href="img/nbl(74).pdf" style="text-decoration:none;">The Possibility of Social Choice by Amartya Sen</a></b></li>
- <li><b><a target="_blank" href="img/nbl(75).pdf" style="text-decoration:none;">The Host Defense of Insects: A Paradigm for Innate Immunity by Jules A. Hoffmann</a></b></li>                              
-<li><b><a target="_blank" href="img/nbl(76).pdf" style="text-decoration:none;">Electronic Structure of Matter – Wave Functions and Density Functionals by Walter Kohn</a></b></li>
-<li><b><a target="_blank" href="img/nbl(77).pdf" style="text-decoration:none;">The Path to Measuring an Accelerating Universe by Brian P. Schmidt</a></b></li>
+ <li><b><a target="_blank" href="img/nbl(71).pdf" style="text-decoration:none;">Biology Dictionary</a></b></li>
  
-  <li><b><a target="_blank" href="img/nbl(78).pdf" style="text-decoration:none;">Evolution of Ideas on the Primary Visual Cortex, 1955-1978: A Biased Historical Account by David H. Hubel </a></b></li>
- <li><b><a target="_blank" href="img/nbl(79).pdf" style="text-decoration:none;">Deep Inelastic Scattering: Comparisons with the Quark Model by Jerome I. Friedman</a></b></li>
-   <li><b><a target="_blank" href="img/nbl(80).pdf" style="text-decoration:none;">The Quantized Hall Effect by Klaus von Klitzing</a></b></li>                             
- <li><b><a target="_blank" href="img/nbl(81).pdf" style="text-decoration:none;">Fractional Quantization by Robert B. Laughlin </a></b></li>                              
-<li><b><a target="_blank" href="img/nbl(82).pdf" style="text-decoration:none;">A Confrontation with Infinity by Gerardus't Hooft</a></b></li>
-<li><b><a target="_blank" href="img/nbl(83).pdf" style="text-decoration:none;">Spatial Configuration of Macromolecular Chains by Paul J. Flory</a></b></li>
- <li><b><a target="_blank" href="img/nbl(84).pdf" style="text-decoration:none;">The Development of the Electron Microscope and of Electron Microscopy by Ernst Ruska</a></b></li>
+ <li><b><a target="_blank" href="img/nbl(72).pdf" style="text-decoration:none;">English−french Dictionary</a></b></li> 
+ 
+ 
+ <li><b><a target="_blank" href="img/nbl(73).pdf" style="text-decoration:none;">Dictionary of Flowers and Plants for Gardening </a></b></li>
+  <li><b><a target="_blank" href="img/nbl(74).pdf" style="text-decoration:none;">Cambridge Advanced Learner's Dictionary</a></b></li>
+                           
+<li><b><a target="_blank" href="img/nbl(76).rar" style="text-decoration:none;">Dictionary of Architecture and Construction</a></b></li>
+
  </ul>
