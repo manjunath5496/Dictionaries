@@ -75,10 +75,10 @@
 
 <li><b><a target="_blank" href="img/nbl(49).pdf" style="text-decoration:none;">Historical Dictionary of Architecture</a></b></li>
                               
-<li><b><a target="_blank" href="img/nbl(50).pdf" style="text-decoration:none;">Experimental Observation of the Intermediate Vector Bosons W<sup>+</sup>, W<sup>–</sup> and Z<sup>0</sup> by Carlo Rubbia</a></b></li>
-<li><b><a target="_blank" href="img/nbl(51).pdf" style="text-decoration:none;">Unconventional Viruses and the Origin and Disappearance of Kuru by D. Carleton Gajdusek</a></b></li>
+<li><b><a target="_blank" href="img/nbl(50).pdf" style="text-decoration:none;">A Dictionary of Philosophy of Religion</a></b></li>
+<li><b><a target="_blank" href="img/nbl(51).pdf" style="text-decoration:none;">Dictionary of Military and Associated Terms</a></b></li>
 
-  <li><b><a target="_blank" href="img/nbl(52).pdf" style="text-decoration:none;">Asymmetric Catalysis: Science and Technology by Ryoji Noyori</a></b></li>                              
+  <li><b><a target="_blank" href="img/nbl(52).pdf" style="text-decoration:none;">A Dictionary of Human Rights</a></b></li>                              
 
 <li><b><a target="_blank" href="img/nbl(53).pdf" style="text-decoration:none;">Manipulating Atoms with Photons by Claude Cohen-Tannoudji </a></b></li>
  
