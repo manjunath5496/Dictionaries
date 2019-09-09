@@ -162,9 +162,18 @@
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(88).pdf" style="text-decoration:none;">The New Oxford Picture Dictionary: Monolingual English Edition</a></b></li>  
   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(89).pdf" style="text-decoration:none;">A Comprehensive Dictionary of Economics</a></b></li> 
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(90).pdf" style="text-decoration:none;">The Oxford Thesaurus: An A-Z Dictionary of Synonyms</a></b></li>  
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(91).pdf" style="text-decoration:none;">Animal Behavior Desk Reference: A Dictionary of Animal Behavior, Ecology, and Evolution</a></b></li>  
   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(92).pdf" style="text-decoration:none;">New Dictionary of Theology</a></b></li> 
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(93).pdf" style="text-decoration:none;">A Dictionary of Confusable Phrases</a></b></li> 
   
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(94).pdf" style="text-decoration:none;">Oxford First Dictionary </a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(95).pdf" style="text-decoration:none;">The Cambridge Dictionary of Statistics</a></b></li>  
  </ul>
