@@ -80,7 +80,7 @@
 
   <li><b><a target="_blank" href="img/nbl(52).pdf" style="text-decoration:none;">A Dictionary of Human Rights</a></b></li>                              
 
-<li><b><a target="_blank" href="img/nbl(53).pdf" style="text-decoration:none;">Manipulating Atoms with Photons by Claude Cohen-Tannoudji </a></b></li>
+<li><b><a target="_blank" href="img/nbl(53).pdf" style="text-decoration:none;">Dictionary of Human Resources and Personnel Management </a></b></li>
  
 <li><b><a target="_blank" href="img/nbl(54).pdf" style="text-decoration:none;">Mechanically Interlocked Molecules (MIMs)—Molecular Shuttles, Switches, and Machines by J. Fraser Stoddart </a></b></li>
 
