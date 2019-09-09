@@ -132,8 +132,14 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(19).pdf" style="text-decoration:none;">The Oxford Dictionary of Allusions</a></b></li>
 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(22).pdf" style="text-decoration:none;">The American Heritage Dictionary of Idioms</a></b></li> 
+ 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(23).pdf" style="text-decoration:none;">A Dictionary of Earth Sciences </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(32).pdf" style="text-decoration:none;">Essential Japanese Phrasebook and Dictionary: Speak Japanese with Confidence!</a></b></li>
 
-
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(59).pdf" style="text-decoration:none;">The Official Dictionary of Unofficial English</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(75).pdf" style="text-decoration:none;">Melloni's Pocket Medical Dictionary</a></b></li>
 
 
 
