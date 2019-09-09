@@ -147,4 +147,20 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(78).pdf" style="text-decoration:none;">The Dictionary of Body Language: A Field Guide to Human Behavior</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(79).pdf" style="text-decoration:none;">The Cambridge Aerospace Dictionary</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(80).pdf" style="text-decoration:none;">Milady's Skin Care and Cosmetic Ingredients Dictionary</a></b></li>
+  
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(81).pdf" style="text-decoration:none;">Dictionary of Aviation </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(82).pdf" style="text-decoration:none;">Historical Dictionary of Ancient Egypt</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(83).pdf" style="text-decoration:none;">The Hutchinson Dictionary of Difficult Words</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(84).rar" style="text-decoration:none;"> A Modern Dictionary of Geography</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(85).pdf" style="text-decoration:none;">Dorland's Dictionary of Medical Acronyms and Abbreviations</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(86).pdf" style="text-decoration:none;">Russian Learners' Dictionary: 10,000 Russian Words in Frequency Order</a></b></li>  
+  
+  
+  
+  
+  
+  
  </ul>
