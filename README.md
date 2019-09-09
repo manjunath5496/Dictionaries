@@ -69,10 +69,11 @@
   <li><b><a target="_blank" href="img/nbl(43).pdf" style="text-decoration:none;">Polymer Science Dictionary </a></b></li>
  <li><b><a target="_blank" href="img/nbl(44).pdf" style="text-decoration:none;">The Oxford Dictionary of English Grammar</a></b></li>
    <li><b><a target="_blank" href="img/nbl(45).pdf" style="text-decoration:none;">A Dictionary of Epidemiology</a></b></li>                             
- <li><b><a target="_blank" href="img/nbl(46).pdf" style="text-decoration:none;">The Invention and Early History of the CCD by George E. Smith</a></b></li>                              
-<li><b><a target="_blank" href="img/nbl(47).pdf" style="text-decoration:none;">Peptides in the Brain. The New Endocrinology of the Neuron by Roger Guillemin</a></b></li>
-<li><b><a target="_blank" href="img/nbl(48).pdf" style="text-decoration:none;">DNA Ends: Just the Beginning by Jack W. Szostak</a></b></li>
-               <li><b><a target="_blank" href="img/nbl(49).pdf" style="text-decoration:none;">The Neurobiology of Dopamine Signaling by Paul Greengard</a></b></li>
+ <li><b><a target="_blank" href="img/nbl(46).pdf" style="text-decoration:none;">Medical Dictionary</a></b></li>                              
+<li><b><a target="_blank" href="img/nbl(47).pdf" style="text-decoration:none;">A concise dictionary of the words in the Hebrew bible</a></b></li>
+<li><b><a target="_blank" href="img/nbl(48).pdf" style="text-decoration:none;">A Dictionary of Literary Symbols</a></b></li>
+
+<li><b><a target="_blank" href="img/nbl(49).pdf" style="text-decoration:none;">Historical Dictionary of Architecture</a></b></li>
                               
 <li><b><a target="_blank" href="img/nbl(50).pdf" style="text-decoration:none;">Experimental Observation of the Intermediate Vector Bosons W<sup>+</sup>, W<sup>–</sup> and Z<sup>0</sup> by Carlo Rubbia</a></b></li>
 <li><b><a target="_blank" href="img/nbl(51).pdf" style="text-decoration:none;">Unconventional Viruses and the Origin and Disappearance of Kuru by D. Carleton Gajdusek</a></b></li>
