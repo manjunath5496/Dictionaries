@@ -190,3 +190,20 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/dic(96).rar" style="text-decoration:none;">CRC World Dictionary of Medicinal and Poisonous Plants: Common Names, Scientific Names, Eponyms, Synonyms, and Etymology</a></li>    
    
  </ul>
+</br>
+<h2> </h2>
+<h2><span id="Online_dictionaries" class="mw-headline">Online dictionaries</span></h2>
+<div class="hatnote navigation-not-searchable">&nbsp;<a title="List of online dictionaries" href="https://en.wikipedia.org/wiki/List_of_online_dictionaries">List of online dictionaries</a></div>
+<p>The age of the Internet brought online dictionaries to the desktop and, more recently, to the smart phone.&nbsp;<a title="David Skinner (journalist)" href="https://en.wikipedia.org/wiki/David_Skinner_(journalist)">David Skinner</a>&nbsp;in 2013 noted that "Among the top ten lookups on Merriam-Webster Online at this moment are 'holistic, pragmatic, caveat, esoteric' and 'bourgeois.' Teaching users about words they don&rsquo;t already know has been, historically, an aim of lexicography, and modern dictionaries do this well."</p>
+<p>There exist a number of websites which operate as online dictionaries, usually with a specialized focus. Some of them have exclusively user driven content, often consisting of&nbsp;<a class="mw-redirect" title="Neologisms" href="https://en.wikipedia.org/wiki/Neologisms">neologisms</a>. Some of the more notable examples include:</p>
+<div class="div-col columns column-width">
+<ul>
+<li><a title="Double-Tongued Dictionary" href="https://en.wikipedia.org/wiki/Double-Tongued_Dictionary">Double-Tongued Dictionary</a>&nbsp;(user generated content)</li>
+<li><a title="Free On-line Dictionary of Computing" href="https://en.wikipedia.org/wiki/Free_On-line_Dictionary_of_Computing">Free On-line Dictionary of Computing</a></li>
+<li><a title="LEO (website)" href="https://en.wikipedia.org/wiki/LEO_(website)">LEO (website)</a></li>
+<li><a title="Logos Dictionary" href="https://en.wikipedia.org/wiki/Logos_Dictionary">Logos Dictionary</a></li>
+<li><a class="new" title="Pseudodictionary (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Pseudodictionary&amp;action=edit&amp;redlink=1">Pseudodictionary</a>&nbsp;(exclusively user-defined neologisms, with humorous intent)</li>
+<li><a title="Dict.cc" href="https://en.wikipedia.org/wiki/Dict.cc">dict.cc</a></li>
+</ul>
+</div>
+</br>
